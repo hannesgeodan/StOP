@@ -1,5 +1,5 @@
-# StOP
-Standaard Officiele Overheids Publicaties
+# StOP-TPOD
+Standaard Officiele Overheids Publicaties - Toepassingsprofiel Omgevingsdocumenten
 
-Werkruimte voor ontwikkeling van StOD en toepassingen daarvan.
+Werkruimte voor ontwikkeling van toepassingen van StOP.
 Onderdeel van Project PR04.
